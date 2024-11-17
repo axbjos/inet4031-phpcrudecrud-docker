@@ -1,9 +1,9 @@
-#  Containerize the PHP Crude CRUD App
+#  INET4031 PHP Crude CRUD App
 
-Clone the PHP Crude CRUD app repo, then add this Dockerfile too it.
+## Containerizing the PHP Crude CRUD App using Docker
 
-Then you will be able to create a container that run the app.
+Clone this respository.
 
-Makes things so much simpler.
+Use the Docker Container development stack used in class to create a Docker Container from the Dockerfile.
 
-For a ready to go Container, grab it here from Docker Hub
+Check-in the Container to your DockerHub registry account.  Deploy the container wherever you want.
