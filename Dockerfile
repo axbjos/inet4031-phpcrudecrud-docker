@@ -8,10 +8,9 @@ FROM php:8.2-apache
 # If you prefer miniconda:
 #FROM continuumio/miniconda3
 
-LABEL Name = "PHP Crude CRUD App Version=2.0"
+LABEL Name="PHP Crude CRUD App Version=2.0"
 
 # the ports our web app are going to listen on
-ENV LISTEN_PORT=80
 EXPOSE 80
 
 RUN docker-php-ext-install pdo pdo_mysql mysqli
