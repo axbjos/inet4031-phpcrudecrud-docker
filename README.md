@@ -8,4 +8,4 @@ Use the Docker Container development stack used in class to create a Docker Cont
 
 Check-in the Container to your DockerHub registry account.  Deploy the container wherever you want.
 
-This container
+Release 1.0
