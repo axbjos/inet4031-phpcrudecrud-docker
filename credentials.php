@@ -1,6 +1,6 @@
 <?php                            //connection & credentials
-$servername = "localhost";      //mysql is on the same host as apache
+$servername = "192.168.56.26";      //mysql is on the same host as apache
 $dbname = "employees";          //which db you're going to use
-$username = "root";
+$username = "dbuser";
 $password = "abc123";
 ?>

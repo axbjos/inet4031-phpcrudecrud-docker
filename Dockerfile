@@ -17,4 +17,3 @@ RUN docker-php-ext-install pdo pdo_mysql mysqli
 
 #copy web/php code
 COPY * /var/www/html/
-
